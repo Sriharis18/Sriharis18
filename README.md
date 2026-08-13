@@ -40,8 +40,8 @@ I'm an MCA student passionate about **Web Development**. Currently learning the 
 ## 🌐 Connect With Me
 
 📧 **Email:** [sriharis.mca@gmail.com](mailto:your.email@example.com)
-💼 **LinkedIn:** [Your LinkedIn](linkedin.com/in/sriharis18)
-🐙 **GitHub:** [Your GitHub](https://github.com/Sriharis18)
+💼 **LinkedIn:** [linkedin.com/in/sriharis18]()
+🐙 **GitHub:** [https://github.com/Sriharis18]()
 
 ---
 
