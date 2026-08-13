@@ -2,25 +2,24 @@
 
 ### 💻 MCA Student | Aspiring Front-End Developer
 
-I'm an MCA student passionate about **Web Development, Software Development, and Data Mining**. Currently learning the **MERN Stack** and building practical, responsive web applications.
+I'm an MCA student passionate about **Web Development**. Currently learning the **MERN Stack** and building practical, responsive web applications.
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:** Python · JavaScript · SQL
-**Frontend:** HTML · CSS · React.js
-**Backend:** Node.js · Express.js
-**Database:** MySQL
+**Languages:** Python · JavaScript · SQL<br>
+**Frontend:** HTML · CSS <br>
+**Database:** MySQL<br>
 **Tools:** Git · GitHub · VS Code
-**Data:** NumPy · Pandas · Data Mining · Machine Learning
+
 
 ---
 
 ## ⚡ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -40,9 +39,9 @@ I'm an MCA student passionate about **Web Development, Software Development, and
 
 ## 🌐 Connect With Me
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-🐙 **GitHub:** [Your GitHub](https://github.com/YOUR_USERNAME)
+📧 **Email:** [sriharis.mca@gmail.com](mailto:your.email@example.com)
+💼 **LinkedIn:** [Your LinkedIn](linkedin.com/in/sriharis18)
+🐙 **GitHub:** [Your GitHub](https://github.com/Sriharis18)
 
 ---
 
